@@ -18,6 +18,8 @@ public class Tirada_Dado {
 		else {
 			Tirada();
 		}
+
+		System.out.println("ESTE ES EL NUEVO CAMBIO");
 		
 	}
 
